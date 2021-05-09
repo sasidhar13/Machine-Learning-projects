@@ -2,4 +2,4 @@
 
 Usecase-1
 CVDD.ipynb - python notebook
-cardi_train.csv - dataset(from kaggle)
+cardio_train.csv - dataset(from kaggle)
