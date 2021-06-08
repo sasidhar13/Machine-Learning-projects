@@ -1,4 +1,0 @@
-HP_SD_EDA.ipynb - EDA file contains plots and preprocessing
-HP_SD_Pred.ipynb - Predicting the prices and comparing them with actual prices
-HPP.csv - dataset saved from combinng different publically available datasets
-
